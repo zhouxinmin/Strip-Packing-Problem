@@ -1,0 +1,55 @@
+SMOTE
+lda:
+F_measure:0.6078	+_	0.0346
+G_mean:0.7175	+_	0.0236
+lr:
+F_measure:0.6041	+_	0.0319
+G_mean:0.7152	+_	0.0202
+nn:
+F_measure:0.603	+_	0.0304
+G_mean:0.7136	+_	0.0169
+svm:
+F_measure:0.4185	+_	0.1687
+G_mean:0.5153	+_	0.1578
+
+random:
+lda:
+F_measure:0.6072	+_	0.0356
+G_mean:0.7168	+_	0.0236
+lr:
+F_measure:0.6072+_0.0356
+G_mean:0.7132	+_	0.0225
+nn:
+F_measure:0.6091	+_	0.032
+G_mean:0.7179	+_	0.0196
+svm:
+F_measure:0.5093	+_	0.1345
+G_mean:0.5733	+_	0.1509
+
+bor:
+lda:
+F_measure:0.5953	+_	0.0343
+G_mean:0.7059	+_	0.0233
+lr:
+F_measure:0.5975	+_	0.0367
+G_mean:0.7068	+_	0.0251
+nn:
+F_measure:0.5988	+_	0.0407
+G_mean:0.702		+_	0.0425
+svm:
+F_measure:0.4515	+_	0.1575
+G_mean:0.5317	+_	0.1613
+
+MY_METHOD:
+lda:
+F_measure:0.5965	+_	0.0297
+G_mean:0.706	+_	0.0192
+lr:
+F_measure:0.5947	+_	0.0281
+G_mean:0.7035		+_	0.0206
+nn:
+F_measure:0.5965	+_	0.0297
+G_mean:0.6822	+_	0.0429
+svm:
+F_measure:0.5965	+_	0.0297
+G_mean:0.5537	+_	0.1281
